@@ -1,0 +1,62 @@
+
+body {
+    padding-top: 70px;
+    font-family: Arial, sans-serif;
+    background-color: #0a0f1f; /* deep dark blue-black */
+    color: white;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #000000 !important;
+}
+
+/* Hero Section */
+.hero {
+    height: calc(100vh - 70px);
+    background: linear-gradient(to right, #000000, #0d1b3d, #001f54);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+    padding: 0;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+}
+
+.profile-img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 4px solid #1f4fff; /* bright blue border */
+    object-fit: cover;
+}
+
+/* Cards */
+.card {
+    background-color: #111827; /* dark navy */
+    color: white;
+    border: 1px solid #1f4fff;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px #1f4fff;
+}
+
+/* Section headings */
+h2 {
+    color: #4da6ff;
+    font-weight: bold;
+}
+
+/* Contact section */
+.bg-dark {
+    background-color: #000000 !important;
+}
