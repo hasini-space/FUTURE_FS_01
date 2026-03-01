@@ -5,32 +5,24 @@ MY PORTOFOLIO
 ## 📌 Task
 Build a personal portfolio website to showcase skills, projects, and profile.
 
- it contain:
-Profile image
-Short bio
 
-
-The should display using , each containing:
+it  contains:
 Blog title
 Image
 Short description
 “Read More” button
-
-
 Use to make the layout responsive.
+Copyright information
+Social media icons
 
 
 
-Apply for:
+Applied:
 Background color
 Fonts
 Hover effects
 Spacing and alignment
 
-
-The should display:
-Copyright information
-Social media icons
 
 
 ## 🚀 Features
@@ -49,3 +41,9 @@ Social media icons
 ## 👩‍💻 Author
 Hasini Gollapalli
 Full Stack Web Development Intern – Future Interns
+
+live demo:https://hasini-space.github.io/FUTURE_FS_01/
+github repository:https://github.com/hasini-space/FUTURE_FS_01.git
+linkdin post:https://www.linkedin.com/posts/hasini-gollapalli-1a0a7b389_futureinterns-webdevelopment-internship-ugcPost-7433762373842317312-XV5u?utm_source=share&utm_medium=member_android&rcm=ACoAAF-7ikgB_tLvFj2GkKkGIDWODzHLY5UIzwI
+gmail:hasinigollapalli2221@gmail.com
+
