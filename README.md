@@ -43,7 +43,15 @@ Hasini Gollapalli
 Full Stack Web Development Intern – Future Interns
 
 live demo:https://hasini-space.github.io/FUTURE_FS_01/
+
+
 github repository:https://github.com/hasini-space/FUTURE_FS_01.git
+
+
 linkdin post:https://www.linkedin.com/posts/hasini-gollapalli-1a0a7b389_futureinterns-webdevelopment-internship-ugcPost-7433762373842317312-XV5u?utm_source=share&utm_medium=member_android&rcm=ACoAAF-7ikgB_tLvFj2GkKkGIDWODzHLY5UIzwI
+
+
+
 gmail:hasinigollapalli2221@gmail.com
+
 
